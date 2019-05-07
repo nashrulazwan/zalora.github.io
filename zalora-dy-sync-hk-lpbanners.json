@@ -1,0 +1,2459 @@
+[
+  {
+    "Name": "Brand: Jaggad",
+    "System ID": "b3460",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-jaggad-april2017.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /jaggad"
+  },
+  {
+    "Name": "Brand: Nica",
+    "System ID": "b3456",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-nica-april2017.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /nica"
+  },
+  {
+    "Name": "Brand: Nose",
+    "System ID": "b463",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/Nose-Brand-LP-april2017.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /nose"
+  },
+  {
+    "Name": "Flaunt Florals",
+    "System ID": "c4181",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/cw23/LP_996x250-floralflair-hken.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /feature & /floral"
+  },
+  {
+    "Name": "Flaunt Florals",
+    "System ID": "c4181",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/cw23/LP_996x250-floralflair-hkzh.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /feature & /floral"
+  },
+  {
+    "Name": "Brand: Diesel",
+    "System ID": "b95",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/20170201-Zalora-DZ-SPR17-R1_06-996x250.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /diesel"
+  },
+  {
+    "Name": "Brand: Misfit",
+    "System ID": "b1929",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/20170202-Zalora-Misfit-Spr17-R1_06-996x250.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /misfit"
+  },
+  {
+    "Name": "Brand: DKNY",
+    "System ID": "b97",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/201670113-Zalora-DKNY-spr-17-R2_06-996x250.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /dkny & /watches"
+  },
+  {
+    "Name": "Brand: DKNY beauty",
+    "System ID": "b97",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/DKNY - Brand Banner 2017-05-11 v3.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /dkny & /beauty"
+  },
+  {
+    "Name": "Brand: Michael Kors beauty",
+    "System ID": "b2773",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Michael Kors - Brand Banner 2017-05-11 v3.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /michael-kors & /beauty"
+  },
+  {
+    "Name": "Women Brand: Michael Kors",
+    "System ID": "b2773",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/20170109-Zalora-MK-access-R1_06-996x250.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /michael-kors"
+  },
+  {
+    "Name": "Brand: Michael Kors",
+    "System ID": "b2773",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/20170109-Zalora-MK-access-R1_06-996x250copy.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /michael-kors"
+  },
+  {
+    "Name": "Brand: Mango Man",
+    "System ID": "b1612",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/cw33/cw33_men_mango_LP_996x250.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /mango-man"
+  },
+  {
+    "Name": "Brand: Mango",
+    "System ID": "b1565",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/cw33/cw33_women_mango_LP_996x250.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /mango"
+  },
+  {
+    "Name": "Brand: Fossil",
+    "System ID": "b1629",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPbanners/cw45_women_fossil_zap_LP_996x250.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /fossil"
+  },
+  {
+    "Name": "Women Brand: Fossil",
+    "System ID": "b1629",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPbanners/cw45_women_fossil_zap_LP_996x250.jpg",
+    "Gender": "Women",
+    "Notes": "contains /fossil & /women"
+  },
+  {
+    "Name": "Men Brand: Fossil",
+    "System ID": "b1629",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPbanners/cw45_men_fossil_zap_LP_996x250.jpg",
+    "Gender": "Men",
+    "Notes": "contains /fossil & /men"
+  },
+  {
+    "Name": "Women Brand: Skagen",
+    "System ID": "b2652",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/2018/cw7/2018_cw7_skagen_w_LP_996x250.jpg",
+    "Gender": "Men",
+    "Notes": "contains /women & /skagen"
+  },
+  {
+    "Name": "Men Brand: Skagen",
+    "System ID": "b2652",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/2018/cw7/2018_cw7_skagen_m_LP_996x250.jpg",
+    "Gender": "Women",
+    "Notes": "contains /men & /skagen"
+  },
+  {
+    "Name": "Brand: Skagen",
+    "System ID": "b2652",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/2018/cw7/2018_cw7_skagen_w_LP_996x250.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /skagen"
+  },
+  {
+    "Name": "Brand: Seafolly",
+    "System ID": "b198",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-seafolly-feb2017.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /seafolly"
+  },
+  {
+    "Name": "Men Category: Shirt",
+    "System ID": "c31",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/StaticPages/ValentinesDay2017/LP_996x250-clothing-men-hken.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men & /clothing & /shirt"
+  },
+  {
+    "Name": "Men Category: Shirt",
+    "System ID": "c31",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/StaticPages/ValentinesDay2017/LP_996x250-clothing-men-hkzh.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men & /clothing & /shirt"
+  },
+  {
+    "Name": "Men Vday Shoes",
+    "System ID": "c995 c2004",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/StaticPages/ValentinesDay2017/LP_996x250-loafers-boat-shoes-men-hken.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men/shoes/loafers-boat-shoes | /men/shoes/formal-shoes"
+  },
+  {
+    "Name": "Men Vday Shoes",
+    "System ID": "c995 c2004",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/StaticPages/ValentinesDay2017/LP_996x250-loafers-boat-shoes-men-hkzh.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men/shoes/loafers-boat-shoes | /men/shoes/formal-shoes"
+  },
+  {
+    "Name": "Men Category: Sports",
+    "System ID": "c471",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-sports-men-feb2017-hken.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men/sports"
+  },
+  {
+    "Name": "Men Category: Sports",
+    "System ID": "c471",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-sports-men-feb2017-hkzh.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men/sports"
+  },
+  {
+    "Name": "Women Category: Hoodies & Sweatshirts",
+    "System ID": "c5968",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-hoodies-sweatshirts-womenfeb2017-hken.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /hoodies-sweatshirts"
+  },
+  {
+    "Name": "Women Category: Hoodies & Sweatshirts",
+    "System ID": "c5968",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-hoodies-sweatshirts-womenfeb2017-hkzh.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /hoodies-sweatshirts"
+  },
+  {
+    "Name": "Brand: Ivy Park",
+    "System ID": "b2956",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/2018/CW5/2018_cw5_ivypark_w_LP_996x250.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /ivy-park"
+  },
+  {
+    "Name": "Brand: ghd",
+    "System ID": "b846",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/brands/LP_996x250_ghd_0412.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /ghd"
+  },
+  {
+    "Name": "Brand: Mimosa",
+    "System ID": "b985",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/2018/CW5/2018_cw5_mimosa_w_LP_996x250.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /mimosa"
+  },
+  {
+    "Name": "Brand: Dorothy Perkins",
+    "System ID": "b1572",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250_DP_0411.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /dorothy-perkins"
+  },
+  {
+    "Name": "Brand: Wallis",
+    "System ID": "b2810",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPbanners/cw41_walis_LP_996x250.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /wallis"
+  },
+  {
+    "Name": "Brand: Topman",
+    "System ID": "b2269",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/2018/cw8/2018_cw8_topman_m_LP_996x250.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /topman"
+  },
+  {
+    "Name": "Brand: Topshop",
+    "System ID": "b2268",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/cw48/cw48_women_topshop_LP_996x250.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /topshop"
+  },
+  {
+    "Name": "Category: Hoodies & Sweatshirts",
+    "System ID": "c5953",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/fpseason/LP_996x250-hoodiesfebmen-hken.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men & /hoodies-sweatshirts"
+  },
+  {
+    "Name": "Category: Hoodies & Sweatshirts",
+    "System ID": "c5953",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/fpseason/LP_996x250-hoodiesfebmen-hkzh.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men & /hoodies-sweatshirts"
+  },
+  {
+    "Name": "Women Category: Feature Leather",
+    "System ID": "c4159",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/fpseason/LP_996x250-leatherfeaturewomen-hken.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women/feature/leather"
+  },
+  {
+    "Name": "Women Category: Feature Leather",
+    "System ID": "c4159",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/fpseason/LP_996x250-leatherfeaturewomen-hkzh.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women/feature/leather"
+  },
+  {
+    "Name": "Men Category: Polo",
+    "System ID": "c434",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/fpseason/LP_996x250-menclothingpolos-hken.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men & /polos"
+  },
+  {
+    "Name": "Men Category: Polo",
+    "System ID": "c434",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/fpseason/LP_996x250-menclothingpolos-hkzh.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men & /polos"
+  },
+  {
+    "Name": "Women Category: Evening Dresses",
+    "System ID": "c1762",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/StaticPages/ValentinesDay2017/LP_996x250-evening-dresses-women-hken.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /evening-dresses"
+  },
+  {
+    "Name": "Women Category: Evening Dresses",
+    "System ID": "c1762",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/StaticPages/ValentinesDay2017/LP_996x250-evening-dresses-women-hkzh.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /evening-dresses"
+  },
+  {
+    "Name": "Women Category: Boots",
+    "System ID": "c15",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/DecEOSS2016/LP_996x250-bootsenvy-women-hken.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /boots"
+  },
+  {
+    "Name": "Women Category: Boots",
+    "System ID": "c15",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/DecEOSS2016/LP_996x250-bootsenvy-women-hkzh.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /boots"
+  },
+  {
+    "Name": "Brand: Calvin Klein Fragrances",
+    "System ID": "b3451",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/CK%20zalora%20banner_20170110.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /calvin-klein-fragrances"
+  },
+  {
+    "Name": "Brand: Addicts Anonymous",
+    "System ID": "b3378",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-addictsanonymous-july17.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /addicts-anonymous"
+  },
+  {
+    "Name": "Women Category: Bags New Products",
+    "System ID": "c399",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/DecEOSS2016/LP_996x250-bags-women-hken.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women/bags & /new-products"
+  },
+  {
+    "Name": "Women Category: Bags New Products",
+    "System ID": "c399",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/DecEOSS2016/LP_996x250-bags-women-hkzh.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women/bags & /new-products"
+  },
+  {
+    "Name": "Women Category: Korean Fashion Special Price",
+    "System ID": "c4669",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/marchmss2017/LP_996x250-koreanfashionmss-hken.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women/korean-fashion & /special-price"
+  },
+  {
+    "Name": "Women Category: Korean Fashion Special Price",
+    "System ID": "c4669",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/marchmss2017/LP_996x250-koreanfashionmss-hkzh.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women/korean-fashion & /special-price"
+  },
+  {
+    "Name": "Women Category: Jackets & Coats",
+    "System ID": "c5966",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/DecEOSS2016/LP_996x250-jacketscoats-women-en.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /jackets-and-coats"
+  },
+  {
+    "Name": "Women Category: Jackets & Coats",
+    "System ID": "c5966",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/DecEOSS2016/LP_996x250-jacketscoats-women-zh.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /jackets-and-coats"
+  },
+  {
+    "Name": "Women Category: Workwear Edit",
+    "System ID": "c2673",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/DecEOSS2016/LP_996x250-workwear-women-en.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /workwear-edit"
+  },
+  {
+    "Name": "Women Category: Workwear Edit",
+    "System ID": "c2673",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/DecEOSS2016/LP_996x250-workwear-women-zh.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /workwear-edit"
+  },
+  {
+    "Name": "Brand: Sunnydaysweety",
+    "System ID": "b2443",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/2018/CW5/2018_cw5_sundaysweety_w_LP_996x250.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /sunnydaysweety"
+  },
+  {
+    "Name": "Brand: Lipsy",
+    "System ID": "b971",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LIPSY-LP996x250-april2017.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /lipsy"
+  },
+  {
+    "Name": "Women Brand: Aldo",
+    "System ID": "b87",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/2018/CW5/2018_cw5_aldo_w_LP_996x250.jpg",
+    "Gender": "Women",
+    "Notes": "contains /aldo & /women"
+  },
+  {
+    "Name": "Men Brand: Aldo",
+    "System ID": "b87",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/2018/CW5/2018_cw5_aldo_m_LP_996x250.jpg",
+    "Gender": "Men",
+    "Notes": "contains /aldo & /men"
+  },
+  {
+    "Name": "Brand: Aldo",
+    "System ID": "b87",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-aldo-july2017.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /aldo & does not contain /men or /women"
+  },
+  {
+    "Name": "Brand: Converse",
+    "System ID": "b302",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250-conversedecember.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /converse"
+  },
+  {
+    "Name": "Women Brand: Factorie",
+    "System ID": "b1914",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250-womenfactorieDec.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /factorie"
+  },
+  {
+    "Name": "Brand: Miss Selfridge",
+    "System ID": "b1818",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPbanners/cw41_Miss_selfrige_LP_996x250.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /miss-selfridge"
+  },
+  {
+    "Name": "Brand: Indicode Jeans",
+    "System ID": "b2885",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/2018/CW6/2018_cw6_indicode_m_LP_996x250.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /indicode-jeans"
+  },
+  {
+    "Name": "Brand: Kayak Storm",
+    "System ID": "b1196",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/kayakstorm_lp_banner_996x250.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /kayak-storm"
+  },
+  {
+    "Name": "Brand: Kleeaisons",
+    "System ID": "b2358",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/241116_lp_kleeaisons_EN.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /kleeaisons"
+  },
+  {
+    "Name": "Brand: Kleeaisons",
+    "System ID": "b2358",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/241116_lp_kleeaisons_ZH-HK.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /kleeaisons"
+  },
+  {
+    "Name": "Brand: Itemms",
+    "System ID": "b2292",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/1212onlinefever/LP_996x250-itemms-men.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /itemms"
+  },
+  {
+    "Name": "Brand: Stylenanda",
+    "System ID": "b3188",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-stylenanda-mar2017.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /stylenanda"
+  },
+  {
+    "Name": "Brand: Millie's",
+    "System ID": "b3286",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/1212onlinefever/LP_996x250-millie-s-women.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /millie-s"
+  },
+  {
+    "Name": "Brand: Warehouse",
+    "System ID": "b2199",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/cw42_LPBanners_warehouse_U.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /warehouse"
+  },
+  {
+    "Name": "Women Brand: Superdry",
+    "System ID": "b137",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPbanners/cw45_women_superdry_zap_LP_996x250.jpg",
+    "Gender": "Women",
+    "Notes": "contains /superdry & /women"
+  },
+  {
+    "Name": "Men Brand: Superdry",
+    "System ID": "b137",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPbanners/cw45_men_superdry_zap_LP_996x250.jpg",
+    "Gender": "Men",
+    "Notes": "contains /superdry & /men"
+  },
+  {
+    "Name": "Women Brand: New Look",
+    "System ID": "b1560",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/brands/LP_996x250_women_newlook_nov4.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /new-look"
+  },
+  {
+    "Name": "Men Brand: New Look",
+    "System ID": "b1560",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250_men_new_look.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men & /new-look"
+  },
+  {
+    "Name": "Brand: We Are Handsome",
+    "System ID": "b3401",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-wearehandsome-mar2017.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /we-are-handsome"
+  },
+  {
+    "Name": "Brand: We Are Handsome",
+    "System ID": "b3401",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-wearehandsome-mar2017.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /we-are-handsome"
+  },
+  {
+    "Name": "Brand: Fashion Union",
+    "System ID": "b3382",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250_fashion_union.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /fashion-union"
+  },
+  {
+    "Name": "Brand: Esprit",
+    "System ID": "b1806",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/cw21/LP_996x250-esprit-may17.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /esprit"
+  },
+  {
+    "Name": "Women Brand: Esprit",
+    "System ID": "b1806",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/cw42/cw42_women_Zap_N2_LP_996x250.jpg",
+    "Gender": "Women",
+    "Notes": "contains /esprit & /women"
+  },
+  {
+    "Name": "Men Brand: Esprit",
+    "System ID": "b1806",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/cw42/cw42_men_zap_N2_LP_996x250.jpg",
+    "Gender": "Men",
+    "Notes": "contains /esprit & /men"
+  },
+  {
+    "Name": "Brand: 24:01",
+    "System ID": "b1351",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250_mockup_men_2401_singlesday_0911.jpg",
+    "Gender": "Men",
+    "Notes": "contains /24-01 & /men"
+  },
+  {
+    "Name": "Brand: !Solid",
+    "System ID": "b2760",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/isolid_LP_996x250-april2017.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /-solid"
+  },
+  {
+    "Name": "Men Brand: Timberland",
+    "System ID": "b2324",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Timberland_Banner_20170327.jpg",
+    "Gender": "Men",
+    "Notes": "contains /timberland & /men"
+  },
+  {
+    "Name": "Women Brand: Timberland",
+    "System ID": "b2324",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Timberland_Banner_20170327.jpg",
+    "Gender": "Women",
+    "Notes": "contains /timberland & /women"
+  },
+  {
+    "Name": "Brand: Zalora",
+    "System ID": "b1623",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/0811/singles-day/brands/LP_996x250_mockup_zalora_asdas.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /zalora"
+  },
+  {
+    "Name": "Women Brand: Zalora",
+    "System ID": "b1623",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/CW43_brand_Zalora_LP_996x250LP_996x250.jpg",
+    "Gender": "Women",
+    "Notes": "contains /zalora & /women"
+  },
+  {
+    "Name": "Men Brand: Zalora",
+    "System ID": "b1623",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/cw36_zalora_Men_LP_996x250.jpg",
+    "Gender": "Men",
+    "Notes": "contains /zalora & /men"
+  },
+  {
+    "Name": "Women Brand: Ray Ban",
+    "System ID": "b370",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/2018/cw7/2018_cw7_rayban_u_LP_996x250.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /ray-ban & /women"
+  },
+  {
+    "Name": "Men Brand: Ray Ban",
+    "System ID": "b370",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/2018/cw7/2018_cw7_rayban_u_LP_996x250.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /ray-ban & /men"
+  },
+  {
+    "Name": "Brand: Daniel Wellington",
+    "System ID": "b1884",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250_DW_black_collection.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /daniel-wellington"
+  },
+  {
+    "Name": "Brand: Twenty Eight Shoes",
+    "System ID": "b2446",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-twenty-eight-shoes-feb2017.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /twenty-eight-shoes"
+  },
+  {
+    "Name": "Brand: Elli Germany",
+    "System ID": "b3369",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250_women_elli_germany_nov10.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /elli-germany"
+  },
+  {
+    "Name": "Brand: Burton Menswear London",
+    "System ID": "b1430",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/brands/LP_996x250_burton_0410.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /burton-menswear-london"
+  },
+  {
+    "Name": "Brand: Maud Frizon",
+    "System ID": "b3153",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/cw22/LP_996x250-maudfrizon-may17.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /maud-frizon"
+  },
+  {
+    "Name": "Women Brand: Sunnies Studios",
+    "System ID": "b2206",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/SUNNIES_STUDIOS_WOMEN_LPBANNER_0911.png",
+    "Gender": "Women",
+    "Notes": "contains /sunnies-studios & /women"
+  },
+  {
+    "Name": "Men Brand: Sunnies Studios",
+    "System ID": "b2206",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/SUNNIES_STUDIOS_MEN_LPBANNER_0911.png",
+    "Gender": "Men",
+    "Notes": "contains /sunnies-studios & /men"
+  },
+  {
+    "Name": "Brand: Sunnies Studios",
+    "System ID": "b2206",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/SUNNIES_STUDIOS_UNISEX_LPBANNER_0911.png",
+    "Gender": "Unisex",
+    "Notes": "contains /sunnies-studios"
+  },
+  {
+    "Name": "Brand: Sunnies Studios",
+    "System ID": "b2206",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/SUNNIES_STUDIOS_UNISEX_LPBANNER_0911_ZH.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /sunnies-studios"
+  },
+  {
+    "Name": "Brand: Invicta",
+    "System ID": "b1944",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250_invita_brand_0911.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /invicta"
+  },
+  {
+    "Name": "Brand: Something Borrowed",
+    "System ID": "b1340",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/CW43_brand_Something_borowed_LP_996x250.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /something-borrowed"
+  },
+  {
+    "Name": "Women Brand: Cotton On",
+    "System ID": "b3219",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/2018/CW5/2018_cw5_cotton-on_w_LP_996x250.jpg",
+    "Gender": "Women",
+    "Notes": "contains /cotton-on & /women"
+  },
+  {
+    "Name": "Men Brand: Cotton On",
+    "System ID": "b3219",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/2018/CW5/2018_cw5_cotton-on_m_LP_996x250.jpg",
+    "Gender": "Men",
+    "Notes": "contains /cotton-on & /men"
+  },
+  {
+    "Name": "Brand: Cotton On",
+    "System ID": "b3219",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250_HKEN_cottonon_unisex.jpg",
+    "Gender": "Unisex",
+    "Notes": "does not contain /men or /women"
+  },
+  {
+    "Name": "Brand: Cotton On",
+    "System ID": "b3219",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250_ZH_cottonon_unisex.jpg",
+    "Gender": "Unisex",
+    "Notes": "does not contain /men or /women"
+  },
+  {
+    "Name": "Brand: Chelsea Peers",
+    "System ID": "b3339",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250-chelseapeers.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /chelsea-peers"
+  },
+  {
+    "Name": "Brand: Faith",
+    "System ID": "b3360",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250-faith.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /faith"
+  },
+  {
+    "Name": "Brand: Principles by Ben De Lisi",
+    "System ID": "b3363",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250_principles.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /principles-by-ben-de-lisi"
+  },
+  {
+    "Name": "Brand: H By Henry Holland",
+    "System ID": "b3361",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250_HH.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /h-by-henry-holland"
+  },
+  {
+    "Name": "Brand: Nine By Savannah Miller",
+    "System ID": "b3362",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996x250_nine.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /nine-by-savannah-miller"
+  },
+  {
+    "Name": "Brand: E8 By Miista",
+    "System ID": "b3229",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/2018/cw9/2018_cw9_E8mista_w_LP_996x250.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /e8-by-miista"
+  },
+  {
+    "Name": "Men Brand: Billabong",
+    "System ID": "b3335",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/2018/cw7/2018_cw7_billabong_m_LP_996x250.jpg",
+    "Gender": "Men",
+    "Notes": "contains /billabong & /men"
+  },
+  {
+    "Name": "Women Brand: Billabong",
+    "System ID": "b3335",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/2018/cw7/2018_cw7_billabong_w_LP_996x250.jpg",
+    "Gender": "Women",
+    "Notes": "contains /billabong & /women"
+  },
+  {
+    "Name": "Brand: Herschel",
+    "System ID": "b305",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/2018/cw9/2018_cw9_herschel_w_LP_996x250.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /herschel"
+  },
+  {
+    "Name": "Women Brand: Herschel",
+    "System ID": "b305",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/2018/cw9/2018_cw9_herschel_w_LP_996x250.jpg",
+    "Gender": "Women",
+    "Notes": "contains /herschel & /women"
+  },
+  {
+    "Name": "Men Brand: Herschel",
+    "System ID": "b305",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/2018/cw9/2018_cw9_herschel_m_LP_996x250.jpg",
+    "Gender": "Men",
+    "Notes": "contains /herschel & /men"
+  },
+  {
+    "Name": "Women Brand: New Balance",
+    "System ID": "b388",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/cw21/New-Balance-Women_LP_996x250-may17.jpg",
+    "Gender": "Women",
+    "Notes": "contains /new-balance & /women"
+  },
+  {
+    "Name": "Men Brand: New Balance",
+    "System ID": "b388",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/cw21/New-Balance-Men_LP_996x250-may17.jpg",
+    "Gender": "Men",
+    "Notes": "contains /new-balance & /men"
+  },
+  {
+    "Name": "Brand: Rubi",
+    "System ID": "b1618",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/2018/cw8/2018_cw8_rubi_w_LP_996x250.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /rubi"
+  },
+  {
+    "Name": "Brand: Xti",
+    "System ID": "b3300",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/XTI_LPBanner.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /xti"
+  },
+  {
+    "Name": "Brand: Lavish Alice",
+    "System ID": "b3352",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP996x250_lavish_alice.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /lavish-alice"
+  },
+  {
+    "Name": "Brand: Smash",
+    "System ID": "b2541",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/996x250_smash_hk.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /smash"
+  },
+  {
+    "Name": "Brand: Elizabeth Arden",
+    "System ID": "b3292",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/EA_Ilove8hr_LP%20996x250_v1-01.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /elizabeth-arden"
+  },
+  {
+    "Name": "Brand: Melissa",
+    "System ID": "b121",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/2018/CW2/2018_cw2_melissa_LP_996x250.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /melissa"
+  },
+  {
+    "Name": "Women Brand: Guess",
+    "System ID": "b20",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/2018/CW6/2018_cw6_guess_w_LP_996x250.jpg",
+    "Gender": "Women",
+    "Notes": "contains /guess & /women"
+  },
+  {
+    "Name": "Brand: Betsy",
+    "System ID": "b1432",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/2018/cw10/2018_cw10_betsy_LP_996x250.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /betsy"
+  },
+  {
+    "Name": "Brand: Rawrow",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/cw36/cw36_RawRow_LP_996x250.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /rawrow"
+  },
+   {
+    "Name": "Brand: Rawrow",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/cw36/cw36_RawRow_LP_996x250.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /rawrow"
+  },
+  {
+    "Name": "Brand: Another-a",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/anothera_LPBANNER_996x250_zh.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /another-a"
+  },
+  {
+    "Name": "Brand: Another-a",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/anothera_LPBANNER_996x250.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /another-a"
+  },
+  {
+    "Name": "Brand: Highfur",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/highfur_LPBANNER_996x250_zh.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /highfur"
+  },
+  {
+    "Name": "Brand: Highfur",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/highfur_LPBANNER_996x250.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /highfur"
+  },
+  {
+    "Name": "Brand: Among",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/among_LPBANNER_996x250_zh.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /among"
+  },
+  {
+    "Name": "Brand: Among",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/among_LPBANNER_996x250.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /among"
+  },
+  {
+    "Name": "Brand: Eone",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/eone_LPBANNER_996x250_zh.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /eone"
+  },
+  {
+    "Name": "Brand: 91-2",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/912_LPBANNER_996x250_zh.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /91-2"
+  },
+  {
+    "Name": "Brand: 91-2",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/912_LPBANNER_996x250.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /91-2"
+  },
+  {
+    "Name": "Brand: ilc",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/ilc_LPBANNER_996x250_zh.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /ilc"
+  },
+  {
+    "Name": "Brand: ilc",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/ilc_LPBANNER_996x250.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /ilc"
+  },
+  {
+    "Name": "Brand: Mag & Logan",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/maglogan_LPBANNER_996x250_zh.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /mag-logan"
+  },
+  {
+    "Name": "Brand: Mag & Logan",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/maglogan_LPBANNER_996x250.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /mag-logan"
+  },
+  {
+    "Name": "Brand: Debb",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/debb_LPBANNER_996x250_zh.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /debb"
+  },
+  {
+    "Name": "Brand: Debb",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/debb_LPBANNER_996x250.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /debb"
+  },
+  {
+    "Name": "Brand: Rocket X Launch",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/rocket%20lunch_LPBANNER_996x250_zh.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /rocket-x-launch"
+  },
+  {
+    "Name": "Brand: Rocket X Launch",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com//cms/Evergage/rocket%20lunch_LPBANNER_996x250.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /rocket-x-launch"
+  },
+  {
+    "Name": "Brand: Wnderkammer",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/wnderkammer_LPBANNER_996x250_zh.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /wnderkammer"
+  },
+  {
+    "Name": "Brand: Wnderkammer",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/wnderkammer_LPBANNER_996x250.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /wnderkammer"
+  },
+  {
+    "Name": "Brand: Jucy Judy",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/jucyjudy_LPBANNER_996x250_zh.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /jucy-judy"
+  },
+  {
+    "Name": "Brand: Jucy Judy",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/jucyjudy_LPBANNER_996x250.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /jucy-judy"
+  },
+  {
+    "Name": "Brand: Nohant",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/nohant_LPBANNER_996x250_zh.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /nohant"
+  },
+  {
+    "Name": "Brand: Nohant",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/nohant_LPBANNER_996x250.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /nohant"
+  },
+  {
+    "Name": "Brand: Lapalette",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/lapalette_LPBANNER_996x250_ZH.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /lapalette"
+  },
+  {
+    "Name": "Brand: Lapalette",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/lapalette_LPBANNER_996x250.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /lapalette"
+  },
+  {
+    "Name": "Brand: Call It Spring",
+    "System ID": "b2380",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-callitspring-may17.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /call-it-spring"
+  },
+  {
+    "Name": "Brand: Mizuno",
+    "System ID": "b461",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-mizuno-may17.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /mizuno"
+  },
+  {
+    "Name": "Brand: Nain",
+    "System ID": "b3246",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-nain-mar2017.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /nain"
+  },
+  {
+    "Name": "Category: Clothing",
+    "System ID": "NA",
+    "Copy": "Clothing",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_MSS_996X250_WOMEN_CLOTHING.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /clothing"
+  },
+  {
+    "Name": "Category: Clothing",
+    "System ID": "NA",
+    "Copy": "服裝",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_MSS_996X250_WOMEN_CLOTHING.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /clothing"
+  },
+  {
+    "Name": "Category: Clothing",
+    "System ID": "NA",
+    "Copy": "Clothing",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_MSS_996X250_MEN CLOTHING.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men& /clothing"
+  },
+  {
+    "Name": "Category: Clothing",
+    "System ID": "NA",
+    "Copy": "服裝",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_MSS_996X250_MEN CLOTHING.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men& /clothing"
+  },
+  {
+    "Name": "Category: Shoes",
+    "System ID": "NA",
+    "Copy": "Shoes",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/brands/LP_996x250_womenshoes_1212.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /shoes"
+  },
+  {
+    "Name": "Category: Shoes",
+    "System ID": "NA",
+    "Copy": "鞋",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/brands/LP_996x250_womenshoes_1212.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /shoes"
+  },
+  {
+    "Name": "Category: Shoes",
+    "System ID": "NA",
+    "Copy": "Shoes",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_MSS_996X250_MEN_SHOES.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men & /shoes"
+  },
+  {
+    "Name": "Category: Shoes",
+    "System ID": "NA",
+    "Copy": "鞋",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_MSS_996X250_MEN_SHOES.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men & /shoes"
+  },
+  {
+    "Name": "Category: Eyewear",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-eyewear-hken.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /accessories & /eyewear"
+  },
+  {
+    "Name": "Category: Eyewear",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-eyewear-hkzh.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /accessories & /eyewear"
+  },
+  {
+    "Name": "Category: Accessories",
+    "System ID": "NA",
+    "Copy": "Accessories",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996X250_WOMEN_ACC_HKTWNOV.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /accessories"
+  },
+  {
+    "Name": "Category: Accessories",
+    "System ID": "NA",
+    "Copy": "女裝飾物",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996X250_WOMEN_ACC_HKTWNOV.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /accessories"
+  },
+  {
+    "Name": "Category: Accessories",
+    "System ID": "NA",
+    "Copy": "Accessories",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_MSS_996X250_MEN_ACCESSORIES.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men & /accessories"
+  },
+  {
+    "Name": "Category: Accessories",
+    "System ID": "NA",
+    "Copy": "飾物",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_MSS_996X250_MEN_ACCESSORIES.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men & /accessories"
+  },
+  {
+    "Name": "Category: Watches",
+    "System ID": "NA",
+    "Copy": "Watches",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/newLPbanners/LP_MSS_996X250_WOMEN_WATCHES.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /watches"
+  },
+  {
+    "Name": "Category: Watches",
+    "System ID": "NA",
+    "Copy": "手錶",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/newLPbanners/LP_MSS_996X250_WOMEN_WATCHES.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /watches"
+  },
+  {
+    "Name": "Category: Watches",
+    "System ID": "NA",
+    "Copy": "Watches",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_MSS_996X250_MEN_WATCHES.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men & /watches"
+  },
+  {
+    "Name": "Category: Watches",
+    "System ID": "NA",
+    "Copy": "手錶",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_MSS_996X250_MEN_WATCHES.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men & /watches"
+  },
+  {
+    "Name": "Category: Tops",
+    "System ID": "NA",
+    "Copy": "Tops",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996X250_WOMEN_TOPS_HKTWNOV.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /fashion-tops"
+  },
+  {
+    "Name": "Category: Tops",
+    "System ID": "NA",
+    "Copy": "上衣",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_996X250_WOMEN_TOPS_HKTWNOV.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /fashion-tops"
+  },
+  {
+    "Name": "Category: Heels",
+    "System ID": "NA",
+    "Copy": "Heels",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/newLPbanners/LP_MSS_996X250_WOMEN_HEELS.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /heels"
+  },
+  {
+    "Name": "Category: Heels",
+    "System ID": "NA",
+    "Copy": "高跟鞋",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/newLPbanners/LP_MSS_996X250_WOMEN_HEELS.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /heels"
+  },
+  {
+    "Name": "Category: Boots",
+    "System ID": "NA",
+    "Copy": "Boots",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/newLPbanners/LP_MSS_996X250_WOMEN_BOOTS.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /boots"
+  },
+  {
+    "Name": "Category: Boots",
+    "System ID": "NA",
+    "Copy": "靴",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/newLPbanners/LP_MSS_996X250_WOMEN_BOOTS.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /boots"
+  },
+  {
+    "Name": "Category: Boots",
+    "System ID": "NA",
+    "Copy": "Boots",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_MSS_996X250_MEN_BOOTS.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men & /boots"
+  },
+  {
+    "Name": "Category: Boots",
+    "System ID": "NA",
+    "Copy": "靴",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_MSS_996X250_MEN_BOOTS.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men & /boots"
+  },
+  {
+    "Name": "Category: Dresses",
+    "System ID": "NA",
+    "Copy": "Dresses",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/brands/LP_996x250_dresses_1212.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /dresses"
+  },
+  {
+    "Name": "Category: Dresses",
+    "System ID": "NA",
+    "Copy": "連身裙",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/brands/LP_996x250_dresses_1212.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /dresses"
+  },
+  {
+    "Name": "Category: Bags",
+    "System ID": "NA",
+    "Copy": "Bags",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_MSS_996X250_MEN_BAGS.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men & /bags"
+  },
+  {
+    "Name": "Category: Bags",
+    "System ID": "NA",
+    "Copy": "男包",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_MSS_996X250_MEN_BAGS.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men & /bags"
+  },
+  {
+    "Name": "Category: Jeans",
+    "System ID": "NA",
+    "Copy": "Jeans",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_MSS_996X250_MEN_JEANS.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men & /jeans"
+  },
+  {
+    "Name": "Category: Jeans",
+    "System ID": "NA",
+    "Copy": "牛仔褲",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_MSS_996X250_MEN_JEANS.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men & /jeans"
+  },
+  {
+    "Name": "Category: Pants",
+    "System ID": "NA",
+    "Copy": "Long Pants",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_MSS_996X250_MEN_LONGPANTS.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men & /pants"
+  },
+  {
+    "Name": "Category: Pants",
+    "System ID": "NA",
+    "Copy": "長褲",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_MSS_996X250_MEN_LONGPANTS.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men & /pants"
+  },
+  {
+    "Name": "Category: Shirt",
+    "System ID": "NA",
+    "Copy": "Shirts",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_MSS_996X250_MEN_SHIRTS.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men & /shirt"
+  },
+  {
+    "Name": "Category: Shirt",
+    "System ID": "NA",
+    "Copy": "恤衫",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_MSS_996X250_MEN_SHIRTS.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men & /shirt"
+  },
+  {
+    "Name": "Category: T-shirts",
+    "System ID": "NA",
+    "Copy": "T-Shirts",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_MSS_996X250_MEN_TSHIRTS.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men & /t-shirts"
+  },
+  {
+    "Name": "Category: T-shirts",
+    "System ID": "NA",
+    "Copy": "T恤",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/Evergage/LP_MSS_996X250_MEN_TSHIRTS.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men & /t-shirts"
+  },
+  {
+    "Name": "Category: Midi Skirts",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/cw21/LP_996x250-midiskirts-hken.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /midi-skirts"
+  },
+  {
+    "Name": "Category: Midi Skirts",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/cw21/LP_996x250-midiskirts-hkzh.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /midi-skirts"
+  },
+  {
+    "Name": "Category: Party Dresses",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-partydresses-women-mar2017-hken.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /party-dresses"
+  },
+  {
+    "Name": "Category: Party Dresses",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-partydresses-women-mar2017-hkzh.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /party-dresses"
+  },
+  {
+    "Name": "Men Brand: Bonds",
+    "System ID": "b3284",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-bonds-mar2017.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men & /bonds"
+  },
+  {
+    "Name": "Category: Beauty",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-beautyspotlight-hken.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /beauty"
+  },
+  {
+    "Name": "Category: Beauty",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-beautyspotlight-hkzh.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /beauty"
+  },
+  {
+    "Name": "Brand: Jaxon",
+    "System ID": "b2596",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/cw36/cw36_JAXON_LP_996x250.jpg",
+    "Gender": "Men",
+    "Notes": "contains /jaxon"
+  },
+  {
+    "Name": "Category: Bodycon Dresses",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/zalorabirthday5/LP_996x250-bodyconbeauty-hken.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /bodycon-dresses"
+  },
+  {
+    "Name": "Category: Bodycon Dresses",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/zalorabirthday5/LP_996x250-bodyconbeauty-hkzh.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /bodycon-dresses"
+  },
+  {
+    "Name": "Men Category: Jumpers and Cardigans",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/zalorabirthday5/LP_996x250-jumperlayergiovanni-hken.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men & /jumpers-and-cardigans"
+  },
+  {
+    "Name": "Men Category: Jumpers and Cardigans",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/zalorabirthday5/LP_996x250-jumperlayergiovanni-hkzh.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men & /jumpers-and-cardigans"
+  },
+  {
+    "Name": "Brand: River Island",
+    "System ID": "b1521",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-riverisland-mar17.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /river-island & does not contain /women or /men"
+  },
+  {
+    "Name": "Men Brand: River Island",
+    "System ID": "b1521",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/2018/cw7/2018_cw7_riverisland_m_LP_996x250.jpg",
+    "Gender": "Men",
+    "Notes": "contains /river-island & contains /men"
+  },
+  {
+    "Name": "Women Brand: River Island",
+    "System ID": "b1521",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/2018/cw7/2018_cw7_riverisland_w_LP_996x250.jpg",
+    "Gender": "Women",
+    "Notes": "contains /river-island & contains /women"
+  },
+  {
+    "Name": "Brand: Calvin Klein",
+    "System ID": "b221",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-calvinklein-mar17.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /calvin-klein & does not contain /women or /men"
+  },
+  {
+    "Name": "Men Brand: Calvin Klein",
+    "System ID": "b221",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/2018/cw8/2018_cw8_calvin_klein_m_LP_996x250.jpg",
+    "Gender": "Men",
+    "Notes": "contains /calvin-klein & contains /men"
+  },
+  {
+    "Name": "Women Brand: Calvin Klein",
+    "System ID": "b221",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/2018/cw8/2018_cw8_calvin_klein_w_LP_996x250.jpg",
+    "Gender": "Women",
+    "Notes": "contains /calvin-klein & contains /women"
+  },
+  {
+    "Name": "Brand: Life8",
+    "System ID": "b3248",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/cw21/LP_996x250-life8-may17.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /life8"
+  },
+  {
+    "Name": "Brand: Thomas Earnshaw",
+    "System ID": "b1587",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-thomasearnshow-mar17.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /thomas-earnshaw"
+  },
+  {
+    "Name": "Brand: Avi-8",
+    "System ID": "b1590",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-avi8-march2017.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /avi-8"
+  },
+  {
+    "Name": "Brand: Sigma",
+    "System ID": "b3137",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-sigma-march2017.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /sigma"
+  },
+  {
+    "Name": "Brand: Hollister",
+    "System ID": "b3522",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/Unisex_LP_996x250_hollister.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /hollister"
+  },
+  {
+    "Name": "Men Brand: Hollister",
+    "System ID": "b3522",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250%20men_hollister.jpg",
+    "Gender": "Men",
+    "Notes": "contains /hollister & /men"
+  },
+  {
+    "Name": "Women Brand: Hollister",
+    "System ID": "b3522",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250_women_hollister.jpg",
+    "Gender": "Women",
+    "Notes": "contains /hollister & /women"
+  },
+  {
+    "Name": "Brand: Vogue",
+    "System ID": "b1469",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/cw47/cw47_women_vogue_LP_996x250.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /vogue"
+  },
+  {
+    "Name": "Brand: Versace",
+    "System ID": "b376",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/cw47/cw47_women_versace_LP_996x250.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /versace"
+  },
+  {
+    "Name": "Brand: Emporio Armani",
+    "System ID": "b2012",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/cw48/cw48_unisex_emporioarmani_LP_996x250.jpg",
+    "Gender": "Men",
+    "Notes": "contains /emporio-armani"
+  },
+  {
+    "Name": "Brand: Armani Exchange",
+    "System ID": "b1466",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250_armani-exchange_0411.jpg",
+    "Gender": "Men",
+    "Notes": "contains /armani-exchange"
+  },
+  {
+    "Name": "Brand: Coach",
+    "System ID": "b1435",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/cw47/cw47_women_coach_LP_996x250.jpg",
+    "Gender": "Women",
+    "Notes": "contains /coach"
+  },
+  {
+    "Name": "Brand: Abercrombie Fitch",
+    "System ID": "b3521",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/brands/LP_996x250_unisex_fitch_0410.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /abercrombie-fitch"
+  },
+  {
+    "Name": "Women Brand: Abercrombie Fitch",
+    "System ID": "b3521",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/brands/LP_996x250_fitch_0410_women.jpg",
+    "Gender": "Women",
+    "Notes": "contains /abercrombie-fitch & /women"
+  },
+  {
+    "Name": "Men Brand: Abercrombie Fitch",
+    "System ID": "b3521",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/brands/LP_996x250_fitch_0410_men.jpg",
+    "Gender": "Men",
+    "Notes": "contains /abercrombie-fitch & /men"
+  },
+  {
+    "Name": "Brand: French Connection",
+    "System ID": "b2248",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/fpseason/LP_996x250-fcuk-april17.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /french-connection"
+  },
+  {
+    "Name": "Brand: Adidas Women",
+    "System ID": "b1373",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/CW43_brand_adidas_LP_996x250_women.jpg",
+    "Gender": "Women",
+    "Notes": "contains /adidas & /women"
+  },
+  {
+    "Name": "Brand: Adidas Men",
+    "System ID": "b1373",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/CW43_brand_Adidas_LP_996x250_men.jpg",
+    "Gender": "Men",
+    "Notes": "contains /adidas & /men"
+  },
+  {
+    "Name": "Brand: Love Moschino",
+    "System ID": "b3380",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LoveMoschino_LP_996x250-may17.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /love-moschino"
+  },
+  {
+    "Name": "Brand: Asics",
+    "System ID": "b960",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/ASICS_LP_996x250-may17.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /asics"
+  },
+  {
+    "Name": "Brand: Asics Tiger",
+    "System ID": "b2772",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/ASICSTiger_LP_996x250-may17.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /asics-tiger"
+  },
+  {
+    "Name": "Brand: Onitsuka Tiger",
+    "System ID": "b762",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/OnitsukaTiger_LP_996x250-may17.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /onitsuka-tiger"
+  },
+  {
+    "Name": "Brand: Levi's",
+    "System ID": "b1468",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/2018/cw7/2018_cw7_levis_u_LP_996x250.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /levis"
+  },
+  {
+    "Name": "Men Category: Sneakers",
+    "System ID": "c413",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/cw21/LP_996x250-sneakerfever-hken.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men & /sneakers-plimsolls"
+  },
+  {
+    "Name": "Men Category: Sneakers",
+    "System ID": "c413",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/cw21/LP_996x250-sneakerfever-hkzh.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men & /sneakers-plimsolls"
+  },
+  {
+    "Name": "Women Category: Maxi Dresses",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/2018/CW6/2018_cw6_women_en_N4_LP_996x250.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /maxi-dresses"
+  },
+  {
+    "Name": "Women Category: Maxi Dresses",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/2018/CW6/2018_cw6_women_zh_N4_LP_996x250.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /maxi-dresses"
+  },
+  {
+    "Name": "Women Brand: Kapton & Son",
+    "System ID": "b3327",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanner/LP_996x250-kapton-son-women-june17.jpg",
+    "Gender": "Women",
+    "Notes": "contains /kapten-son & /women"
+  },
+  {
+    "Name": "Men Brand: Kapton & Son",
+    "System ID": "b3327",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanner/LP_996x250-kapton-son-unisex-june17.jpg",
+    "Gender": "Men",
+    "Notes": "contains /kapten-son & /men"
+  },
+  {
+    "Name": "Brand: Kapton & Son",
+    "System ID": "b3327",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanner/LP_996x250-kapton-son-men-june17.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /kapten-son & does not contain /men or /women"
+  },
+  {
+    "Name": "Brand: Swiss Polo",
+    "System ID": "b2539",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanner/Swiss-Polo-Brand-LP-SS17.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /swiss-polo"
+  },
+  {
+    "Name": "Brand: Playboy",
+    "System ID": "b2702",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanner/LP_996x250-playboy_june17.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /playboy"
+  },
+  {
+    "Name": "Brand: Lumberjacks",
+    "System ID": "b1322",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanner/LP_996x250-lumberjacks-unisex-june17.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /lumberjacks"
+  },
+  {
+    "Name": "Brand: Uniqtee",
+    "System ID": "b3048",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanner/LP_996x250-uniqtee-june17.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /uniqtee"
+  },
+  {
+    "Name": "Brand: Sparrow Green",
+    "System ID": "b991",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanner/LP_996x250-sparrow_green-june17.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /sparrowgreen"
+  },
+  {
+    "Name": "Brand: Fidelio",
+    "System ID": "b2515",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanner/LP_996x250-fidelio-june17.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /fidelio"
+  },
+  {
+    "Name": "Brand: Pink n Proper",
+    "System ID": "b2433",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanner/LP_996x250-pink-n-proper-june17.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /pink-n-proper"
+  },
+  {
+    "Name": "Women Category: Strappy Heels",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "EN",
+    "Image": "https://static-hk.zacdn.com/cms/cw24/LP_996x250-strappyheels-hken.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /strappy-heels"
+  },
+  {
+    "Name": "Women Category: Strappy Heels",
+    "System ID": "NA",
+    "Copy": "NA",
+    "Language": "ZH",
+    "Image": "https://static-hk.zacdn.com/cms/cw24/LP_996x250-strappyheels-hkzh.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & /strappy-heels"
+  },
+  {
+    "Name": "Brand: Triumph",
+    "System ID": "b217",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-triumph-june17.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /triumph"
+  },
+  {
+    "Name": "Men Brand: Penshoppe",
+    "System ID": "b3000",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/cw36/cw36_zap_penshoppe_menLP_996x250.jpg",
+    "Gender": "Men",
+    "Notes": "contains /penshoppe & contains /men"
+  },
+  {
+    "Name": "Women Brand: Penshoppe",
+    "System ID": "b3000",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/cw36/cw36_zap_penshoppe_womenLP_996x250.jpg",
+    "Gender": "Women",
+    "Notes": "contains /penshoppe  & contains /women"
+  },
+  {
+    "Name": "Brand: Mabelle",
+    "System ID": "b3584",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/MaBelle_LP_996x250-june2017.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /mabelle"
+  },
+  {
+    "Name": "Men Brand: Reebok",
+    "System ID": "b3436",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-reebok-men-june17.jpg",
+    "Gender": "Men",
+    "Notes": "contains /reebok & contains /men"
+  },
+  {
+    "Name": "Women Brand: Reebok",
+    "System ID": "b3436",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-reebok-women-june17.jpg",
+    "Gender": "Women",
+    "Notes": "contains /reebok & contains /women"
+  },
+  {
+    "Name": "Men Brand: Louis Quatorze",
+    "System ID": "b3544",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/cw47/cw47_men_louis_quartorze_LP_996x250.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men & contains /louis-quatorze"
+  },
+  {
+    "Name": "Women Brand: Louis Quatorze",
+    "System ID": "b3544",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/2018/CW5/2018_cw5_louisquartoze_w_LP_996x250.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & contains /louis-quatorze"
+  },
+  {
+    "Name": "Brand: Maserati",
+    "System ID": "b3310",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-maserati-june17.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /maserati"
+  },
+  {
+    "Name": "Brand: Fiorelli",
+    "System ID": "b3455",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-fiorelli-june17.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /fiorelli"
+  },
+  {
+    "Name": "Brand: Perch",
+    "System ID": "b3541",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-perch-june17.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /perch"
+  },
+  {
+    "Name": "Men Brand: Dune",
+    "System ID": "b3548",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-dune-men-june17.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men & contains /dune"
+  },
+  {
+    "Name": "Women Brand: Dune",
+    "System ID": "b3548",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-dune-women-june17.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & contains /dune"
+  },
+  {
+    "Name": "Brand: Vacae",
+    "System ID": "b3314",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/LP_996x250-vacae-june17.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /vacae"
+  },
+  {
+    "Name": "Exclusive : CR7",
+    "System ID": "b2741",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/Excusive_CR7_LP_996x250.jpg",
+    "Gender": "Men",
+    "Notes": "contains /men & contains /cr7"
+  },
+  {
+    "Name": "Women Brand: united-colors-of-benetton",
+    "System ID": "b3556",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/cw33/cw33_LP_N1_996x250.jpg",
+    "Gender": "Women",
+    "Notes": "contains /women & contains /united-colors-of-benetton & contains /special-price"
+  },
+  {
+    "Name": "Brand: Prive Women",
+    "System ID": "b3648",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/cw34/cw34_prive_LP_996x250.jpg",
+    "Gender": "Women",
+    "Notes": "contains /prive-revaux & /women"
+  },
+  {
+    "Name": "Brand: Prive Men",
+    "System ID": "b3648",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/cw34/cw34_prive_LP_996x250.jpg",
+    "Gender": "Men",
+    "Notes": "contains /prive-revaux & /men"
+  },
+  {
+    "Name": "Brand: Prive",
+    "System ID": "b3648",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/cw34/cw34_prive_LP_996x250.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /prive-revaux"
+  },
+  {
+    "Name": "Brand: missguided",
+    "System ID": "b2389",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/cw36_missguided_LP_996x250.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /missguided"
+  },
+  {
+    "Name": "Brand: goddiva",
+    "System ID": "b1958",
+    "Copy": "NA",
+    "Language": "EN ZH",
+    "Image": "https://static-hk.zacdn.com/cms/LPBanners/cw36_goddiva_LP_996X250.jpg",
+    "Gender": "Unisex",
+    "Notes": "contains /goddiva"
+  }
+]

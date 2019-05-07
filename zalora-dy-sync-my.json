@@ -1,0 +1,582 @@
+[
+  {
+    "Placement": "wh1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-my.zacdn.com/cms/dy/CW7-NEWYEARNEWARRIVALS-W-HERO-DESK.jpg",
+    "Exit Url": "/women/new-products/?age=0-30&csa=newyearnewarrivals",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "CAT|Women|newyearnewarrivals|ALL|NA"
+  },
+  {
+    "Placement": "wn1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-my.zacdn.com/cms/dy/FOREO-FEB18-W-N1.jpg",
+    "Exit Url": "/women/foreo/?csa=foreo",
+    "Headline": "Foreo",
+    "Subline": "Treat your skin to a revolutionary facial cleansing experience like no other",
+    "EventLabel": "BRA|Women|Foreo|ALL|NA"
+  },
+  {
+    "Placement": "wn2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-my.zacdn.com/cms/dy/BALMAINXLOREALXZALORA-DEC17-HERO-N2.jpg",
+    "Exit Url": "/lorealxbalmain/?csa=shopLorealBalmain04122017",
+    "Headline": "L'Oreal Paris x Balmain Paris",
+    "Subline": "Shop the exclusive lipsticks only on ZALORA",
+    "EventLabel": "BRA|Women|shopLorealBalmain04122017|ALL|NA"
+  },
+  {
+    "Placement": "wcu1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-my.zacdn.com/cms/dy/RAYBAN-FEB18-W-N2.jpg",
+    "Exit Url": "/women/ray-ban/?csa=rayban",
+    "Headline": "Ray-Ban",
+    "Subline": "Acquaint yourself with reinvented icons like the Aviator, Wayfarer and Clubmaster",
+    "EventLabel": "bra|women|rayban|all|na"
+  },
+  {
+    "Placement": "wcu2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-my.zacdn.com/cms/dy/CW7-TRENDINGNOW-W-N1.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_three=cw7bestseller&csa=trendingnow",
+    "Headline": "Trending Now",
+    "Subline": "Gear up for the weekend in our bestselling dresses, shoes and more",
+    "EventLabel": "SAL|Women|trendingnow|ALL|NA"
+  },
+  {
+    "Placement": "wcu3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-my.zacdn.com/cms/dy/CW7-SPORTSPERFORMANCE-W-N1.jpg",
+    "Exit Url": "/women/sport/all-products/?csa=performancesportswear",
+    "Headline": "The Sports Edit",
+    "Subline": "Hitting the gym never felt this good",
+    "EventLabel": "TRE|Women|performancesportswear|ALL|NA"
+  },
+  {
+    "Placement": "wcu4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-my.zacdn.com/cms/dy/CW7-WATCHES-W-N2.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_four=cw7watchescr&csa=watchescr",
+    "Headline": "Perfect Pairing",
+    "Subline": "Pair up and get 20% off when you purchase 2 watches",
+    "EventLabel": "SAL|Women|watchescr|ALL|NA"
+  },
+  {
+    "Placement": "wfb1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-my.zacdn.com/cms/dy/CALVINKLEIN-OCT17-W-B1.jpg",
+    "Exit Url": "/women/calvin-klein/?csa=calvinklein",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "bra|women|calvinklein|all|na"
+  },
+  {
+    "Placement": "wfb2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-my.zacdn.com/cms/dy/THEFACESHOP-JAN18-W-B1.jpg",
+    "Exit Url": "/women/the-face-shop/?csa=thefaceshop",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "bra|women|thefaceshop|all|na"
+  },
+  {
+    "Placement": "wfb3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-my.zacdn.com/cms/dy/CLUSEVALENTINE-FEB18-W-B1.jpg",
+    "Exit Url": "/women/cluse/?csa=cluse",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|cluse|ALL|NA"
+  },
+  {
+    "Placement": "wfb4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-my.zacdn.com/cms/dy/SOCO-FEB18-W-B1.jpg",
+    "Exit Url": "/women/so-co/?csa=soco",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|soco|ALL|NA"
+  },
+  {
+    "Placement": "wfb5",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-my.zacdn.com/cms/dy/DANIELWELLINGTONVALENTINE-FEB18-W-B1.jpg",
+    "Exit Url": "/women/daniel-wellington/?csa=danielwellington",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|danielwellington|ALL|NA"
+  },
+  {
+    "Placement": "wfb6",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-my.zacdn.com/cms/dy/KLARACOSMETICS-JAN18-W-B1.jpg",
+    "Exit Url": "/women/klara-cosmetics/?csa=klaracosmetics",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|klaracosmetics|ALL|NA"
+  },
+  {
+    "Placement": "wc1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-my.zacdn.com/cms/dy/WATCHES-FEB17-W-C1-2.jpg",
+    "Exit Url": "/women/watches/special-price/",
+    "Headline": "NA",
+    "Subline": "SHOP WATCHES >",
+    "EventLabel": "SAL-CAT|Women|MSS17WATCHES|ALL|NA"
+  },
+  {
+    "Placement": "wc2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-my.zacdn.com/cms/dy/BAGS-W-MAR17-C1.jpg",
+    "Exit Url": "/women/bags/special-price/",
+    "Headline": "NA",
+    "Subline": "SHOP BAGS >",
+    "EventLabel": "SAL-CAT|Women|MSS17Bags|ALL|NA"
+  },
+  {
+    "Placement": "wc3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-my.zacdn.com/cms/dy/HEELS-FEB17-C3-2.jpg",
+    "Exit Url": "/women/shoes/special-price/",
+    "Headline": "NA",
+    "Subline": "SHOP SHOES >",
+    "EventLabel": "SAL-CAT|Women|MSS17Shoes|ALL|NA"
+  },
+  {
+    "Placement": "wc4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-my.zacdn.com/cms/dy/CLOTHING-W-MAR17-C1.jpg",
+    "Exit Url": "/women/clothing/special-price/",
+    "Headline": "NA",
+    "Subline": "SHOP CLOTHING >",
+    "EventLabel": "SAL-CAT|Women|MSS17Clothing|ALL|NA"
+  },
+  {
+    "Placement": "wc5",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-my.zacdn.com/cms/dy/SPORTS-FEB17-W-C1-2.jpg",
+    "Exit Url": "/women/sport/special-price/",
+    "Headline": "NA",
+    "Subline": "SHOP SPORTS >",
+    "EventLabel": "SAL-CAT|Women|MSS17Sports|ALL|NA"
+  },
+  {
+    "Placement": "mh1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-my.zacdn.com/cms/dy/CW7-NEWYEARNEWARRIVAL-M-HERO-DESK.jpg",
+    "Exit Url": "/men/new-products/?csa=newyearnewarrivals",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "CAT|Men|newyearnewarrivals|ALL|NA"
+  },
+  {
+    "Placement": "mn1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-my.zacdn.com/cms/dy/RAYBAN-FEB18-W-N1.jpg",
+    "Exit Url": "/men/ray-ban/?csa=rayban",
+    "Headline": "Ray-Ban",
+    "Subline": "Acquaint yourself with reinvented icons like the Aviator, Wayfarer and Clubmaster",
+    "EventLabel": "BRA|Men|rayban|ALL|NA"
+  },
+  {
+    "Placement": "mn2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "http://static-my.zacdn.com/cms/dy/CW7-SPORTSSHOES-M-N2.jpg",
+    "Exit Url": "/men/sport/men-sport-shoes/?from=header&csa=sportsshoes",
+    "Headline": "First to the Finish",
+    "Subline": "Hit the ground running and get the victory you deserve",
+    "EventLabel": "RET|Men|sportsshoes|ALL|NA"
+  },
+  {
+    "Placement": "mcu1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "http://static-my.zacdn.com/cms/dy/CW7-BOTTOMSUP-M-N2.jpg",
+    "Exit Url": "/men/clothing/pants/?from=header&csa=bottomsup",
+    "Headline": "Bottoms Up",
+    "Subline": "Swap those worn trousers for this season’s jogger pants, denim jeans and casual chinos",
+    "EventLabel": "RET|Men|bottomsup|ALL|NA"
+  },
+  {
+    "Placement": "mcu2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-my.zacdn.com/cms/dy/CW7-WATCHES-M-N1.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_four=cw7watchescr&csa=watchescr",
+    "Headline": "Perfect Pairing",
+    "Subline": "Pair up and get 20% off when you purchase 2 watches",
+    "EventLabel": "SAL|Men|watchescr|ALL|NA"
+  },
+  {
+    "Placement": "mcu3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-my.zacdn.com/cms/dy/CW7-PRINTSPATTERNS-M-N1.jpg",
+    "Exit Url": "/men/clothing/printed-shirts/?csa=printsandpatterns",
+    "Headline": "Prints & Patterns",
+    "Subline": "Give your shirts a new update",
+    "EventLabel": "CAT|Men|printsandpatterns|ALL|NA"
+  },
+  {
+    "Placement": "mcu4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-my.zacdn.com/cms/dy/CW7-TRENDINGNOW-M-N2.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_three=cw7bestseller&csa=trendingnow",
+    "Headline": "Trending Now",
+    "Subline": "Gear up for the weekend in our bestselling tees, shoes and more",
+    "EventLabel": "SAL|Men|trendingnow|ALL|NA"
+  },
+  {
+    "Placement": "mfb1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-my.zacdn.com/cms/dy/HOLLISTER-JAN18-M-B1.jpg",
+    "Exit Url": "/men/hollister/?csa=hollister",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|hollister|ALL|NA"
+  },
+  {
+    "Placement": "mfb2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-my.zacdn.com/cms/dy/NIKE-FEB18-M-B1.jpg",
+    "Exit Url": "/men/nike/?csa=nike",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|men|nike|ALL|NA"
+  },
+  {
+    "Placement": "mfb3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-my.zacdn.com/cms/dy/TOPMAN-OCT17-M-B1.jpg",
+    "Exit Url": "/men/topman/?csa=topman",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|topman|ALL|NA"
+  },
+  {
+    "Placement": "mfb4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-my.zacdn.com/cms/dy/HUSHPUPPIES-JUNE17-M-B1.jpg",
+    "Exit Url": "/men/hush-puppies/?csa=hushpuppies",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|hushpuppies|ALL|NA"
+  },
+  {
+    "Placement": "mfb5",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-my.zacdn.com/cms/dy/VANS-MAR17-B1.jpg",
+    "Exit Url": "/men/vans/?csa=vans",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|vans|ALL|NA"
+  },
+  {
+    "Placement": "mfb6",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-my.zacdn.com/cms/dy/PUMA-JAN18-M-B1.jpg",
+    "Exit Url": "/men/puma/?csa=puma",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|puma|ALL|NA"
+  },
+  {
+    "Placement": "mc1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-my.zacdn.com/cms/dy/SHIRTS-FEB17-M-C1.jpg",
+    "Exit Url": "/men/clothing/shirts/special-price/",
+    "Headline": "NA",
+    "Subline": "SHOP SHIRTS >",
+    "EventLabel": "SAL-CAT|Men|MSS17Shirts|ALL|NA"
+  },
+  {
+    "Placement": "mc2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-my.zacdn.com/cms/dy/WATCHES-FEB17-M-C1.jpg",
+    "Exit Url": "/men/watches/special-price/",
+    "Headline": "NA",
+    "Subline": "SHOP WATCHES >",
+    "EventLabel": "SAL-CAT|Men|MSS17WATCHES|ALL|NA"
+  },
+  {
+    "Placement": "mc3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-my.zacdn.com/cms/dy/SPORTS-M-MAR17-C3.jpg",
+    "Exit Url": "/men/sport/special-price/",
+    "Headline": "NA",
+    "Subline": "SHOP SPORTS >",
+    "EventLabel": "SAL-CAT|Men|MSS17Sports|ALL|NA"
+  },
+  {
+    "Placement": "mc4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-my.zacdn.com/cms/evergage/1216-C1-M-SNEAKERS.jpg",
+    "Exit Url": "/men/shoes/sneakers-skate/special-price/",
+    "Headline": "NA",
+    "Subline": "SHOP SNEAKERS >",
+    "EventLabel": "SAL-CAT|Men|MSS17Sneakers|ALL|NA"
+  },
+  {
+    "Placement": "mc5",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-my.zacdn.com/cms/dy/PANTS-FEB17-M-C1.jpg",
+    "Exit Url": "/men/clothing/pants/special-price/",
+    "Headline": "NA",
+    "Subline": "SHOP PANTS >",
+    "EventLabel": "SAL-CAT|Men|MSS17Pants|ALL|NA"
+  },
+  {
+    "Placement": "wh1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-my.zacdn.com/cms/dy/CW7-NEWYEARNEWARRIVALS-W-HERO-MOB.jpg",
+    "Exit Url": "/women/new-products/?age=0-30&csa=newyearnewarrivals",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "CAT|Women|newyearnewarrivals|ALL|NA"
+  },
+  {
+    "Placement": "wn1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-my.zacdn.com/cms/dy/FOREO-FEB18-W-N2.jpg",
+    "Exit Url": "/women/foreo/?csa=foreo",
+    "Headline": "Foreo",
+    "Subline": "Treat your skin to a revolutionary facial cleansing experience like no other",
+    "EventLabel": "BRA|Women|Foreo|ALL|NA"
+  },
+  {
+    "Placement": "wn2",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-my.zacdn.com/cms/dy/RAYBAN-FEB18-W-N2.jpg",
+    "Exit Url": "/ray-ban/?csa=rayban",
+    "Headline": "Ray-Ban",
+    "Subline": "Acquaint yourself with reinvented icons like the Aviator, Wayfarer and Clubmaster",
+    "EventLabel": "bra|women|rayban|all|na"
+  },
+  {
+    "Placement": "wc1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-my.zacdn.com/cms/evergage/WATCHES-FEB17-W-C1-new.jpg",
+    "Exit Url": "/women/watches/special-price/",
+    "Headline": "NA",
+    "Subline": "Watches",
+    "EventLabel": "CAT|Women|Watches|ALL|NA"
+  },
+  {
+    "Placement": "wc2",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-my.zacdn.com/cms/evergage/TOPS-C1-FEB17-new.jpg",
+    "Exit Url": "/women/clothing/fashion-tops/",
+    "Headline": "NA",
+    "Subline": "Tops",
+    "EventLabel": "CAT|Women|Tops|ALL|NA"
+  },
+  {
+    "Placement": "mh1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-my.zacdn.com/cms/dy/CW7-NEWYEARNEWARRIVAL-M-HERO-MOB.jpg",
+    "Exit Url": "/men/new-products/?csa=newyearnewarrivals",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "CAT|Men|newyearnewarrivals|ALL|NA"
+  },
+  {
+    "Placement": "mn1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-my.zacdn.com/cms/dy/RAYBAN-FEB18-W-N1.jpg",
+    "Exit Url": "/men/ray-ban/?csa=rayban",
+    "Headline": "Ray-Ban",
+    "Subline": "Acquaint yourself with reinvented icons like the Aviator, Wayfarer and Clubmaster",
+    "EventLabel": "BRA|Men|rayban|ALL|NA"
+  },
+  {
+    "Placement": "mn2",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "http://static-my.zacdn.com/cms/dy/CW7-WATCHES-M-N2.jpg",
+    "Exit Url": "/men/all-products/?cmpgn_four=cw7watchescr&csa=watchescr",
+    "Headline": "Perfect Pairing",
+    "Subline": "Pair up and get 20% off when you purchase 2 watches",
+    "EventLabel": "SAL|Men|watchescr|ALL|NA"
+  },
+  {
+    "Placement": "mc1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-my.zacdn.com/cms/evergage/1216-C1-M-TSHIRTS.jpg",
+    "Exit Url": "/men/clothing/t-shirts/",
+    "Headline": "NA",
+    "Subline": "T-Shirts",
+    "EventLabel": "CAT|Men|Tshirt|ALL|NA"
+  },
+  {
+    "Placement": "mc2",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-my.zacdn.com/cms/evergage/1216-C1-M-PANTS.jpg",
+    "Exit Url": "/men/clothing/pants/",
+    "Headline": "NA",
+    "Subline": "Pants",
+    "EventLabel": "CAT|Men|Pants|ALL|NA"
+  },
+  {
+    "Placement": "uh1",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://zstaticmy01-a.akamaihd.net/cms/cw32/HOMEPAGE_SPLASH_996x500-cw32-2017.jpg",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Unisex|CW32AugustNewArrivalsALL|NA"
+  },
+  {
+    "Placement": "ub1",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://zstaticmy01-a.akamaihd.net/cms/dy/TOPMAN-FEB17-HP-BOTTOM.jpg",
+    "Exit Url": "/topman-malaysia/",
+    "Headline": "TOPMAN",
+    "Subline": "New Arrivals",
+    "EventLabel": "20170220|MY|DSK|MS|Homepage|Row-1-1"
+  },
+  {
+    "Placement": "ub2",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://zstaticmy01-a.akamaihd.net/cms/dy/ZALORA-MAR17-UNISEX-HP-BOTTOM.jpg",
+    "Exit Url": "/zalora/",
+    "Headline": "ZALORA",
+    "Subline": "Shop now",
+    "EventLabel": "BRA|Unisex|SS17Zalora|ALL|NA"
+  },
+  {
+    "Placement": "ub3",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://zstaticmy01-a.akamaihd.net/cms/dy/MANGO-FEB17-HP-BOTTOM.jpg",
+    "Exit Url": "/women/mango",
+    "Headline": "MANGO",
+    "Subline": "Shop now",
+    "EventLabel": "BRA|Women|SS17Mango|ALL|NA"
+  },
+  {
+    "Placement": "wb1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-my.zacdn.com/cms/dy/mobile_brands_mango.gif",
+    "Exit Url": "/women/mango/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL-BRA|Women|SS17Mango|ALL|NA"
+  },
+  {
+    "Placement": "wb2",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-my.zacdn.com/cms/dy/mobile_brands_zalora.gif",
+    "Exit Url": "/women/zalora/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL-BRA|Women|SS17ZALORA|ALL|NA"
+  },
+  {
+    "Placement": "wb3",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-my.zacdn.com/cms/dy/PAZZION-JULY17-N2-MOBILE-B1-B4.jpg",
+    "Exit Url": "/women/pazzion/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|PAZZION|ALL|NA"
+  },
+  {
+    "Placement": "wb4",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-my.zacdn.com/cms/dy/mobile_brands_aldo.gif",
+    "Exit Url": "/women/aldo/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL-BRA|Women|SS17ALDO|ALL|NA"
+  },
+  {
+    "Placement": "mb1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-my.zacdn.com/cms/evergage/mobile_brands_raybans.gif",
+    "Exit Url": "/men/ray-ban/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|SS17Rayban|ALL|NA"
+  },
+  {
+    "Placement": "mb2",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-my.zacdn.com/cms/dy/mobile_brands_zalora.gif",
+    "Exit Url": "/men/zalora/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|SS17ZALORA|ALL|NA"
+  },
+  {
+    "Placement": "mb3",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-my.zacdn.com/cms/evergage/mobile_brands_mangoman.gif",
+    "Exit Url": "/men/mango-man",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|SS17MangoMan|ALL|NA"
+  },
+  {
+    "Placement": "mb4",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-my.zacdn.com/cms/dy/mobile_brands_Hollister.gif",
+    "Exit Url": "/men/hollister/",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|SS17Hollister|ALL|NA"
+  }
+]

@@ -1,0 +1,752 @@
+[
+  {
+    "Placement": "wh1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/cw9/HIGHSTREETBRANDS-CW9-FEB18-W-HERO-DESK-V2.jpg",
+    "Exit Url": "/women/all-products/?brand=aldo--call-it-spring--dorothy-perkins--fiorelli--guess--zalora--public-desire--river-island--topshop&csa=highstreetbrandsownnow",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "TRE|Women|highstreetbrandsownnow|ALL|NA"
+  },
+  {
+    "Placement": "wn1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/cw9/WORKWEARNOW-CW9-FEB18-W-N1.jpg",
+    "Exit Url": "/women/office-wear/?csa=workwearownnow",
+    "Headline": "上班魔法",
+    "Subline": "有品味的職場穿搭，辦公室焦點就是妳",
+    "EventLabel": "TRE|Women|workwearownnow|ALL|NA"
+  },
+  {
+    "Placement": "wn2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/cw9/SNEAKERS-CW9-FEB18-W-N2.jpg",
+    "Exit Url": "/women/shoes/sneakers/?csa=sneakers",
+    "Headline": "大步探索新世界",
+    "Subline": "踩著時尚的腳步，迎接新旅途",
+    "EventLabel": "CAT|Women|sneakers|ALL|NA"
+  },
+  {
+    "Placement": "wn3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/cw9/HEELS-CW9-FEB18-W-N2.jpg",
+    "Exit Url": "/women/shoes/heels/?csa=ownnowheels",
+    "Headline": "踩出時尚感",
+    "Subline": "挑選完美比例高跟鞋",
+    "EventLabel": "RE|Women|ownnowheels|ALL|NA"
+  },
+  {
+    "Placement": "wn4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/cw9/LIGHTLAYERS-CW9-FEB18-W-N1.jpg",
+    "Exit Url": "/product-index/women-light-layers/?csa=ownnowlightlayers",
+    "Headline": "輕鬆換季",
+    "Subline": "實用又時尚的穿搭，讓妳輕鬆迎接春天",
+    "EventLabel": "TRE|Women|ownnowlightlayers|ALL|NA"
+  },
+  {
+    "Placement": "wcu1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/june/cw25/N2_NEWARRIVALS_620x420-backinstock.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=junebackinstock",
+    "Headline": "時尚單品熱銷補貨",
+    "Subline": "機會只有一次 立即購入搶手服飾和美鞋",
+    "EventLabel": "NA|Women|BackInStock|ALL|NA"
+  },
+  {
+    "Placement": "wcu2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/june/cw25/N1_NEWARRIVALS_360x420-shortsandtees.jpg",
+    "Exit Url": "/product-index/shortsandtees/",
+    "Headline": "輕鬆簡便穿搭術",
+    "Subline": "百搭T恤短褲 必備個性穿搭",
+    "EventLabel": "TRE|Women|ShortsAndTees|ALL|NA"
+  },
+  {
+    "Placement": "wcu3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/june/cw25/N1_NEWARRIVALS_360x420-cu3-summergateways.jpg",
+    "Exit Url": "/women/all-products/women/?cmpgn_one=maywevacay",
+    "Headline": "浪漫夏日之旅",
+    "Subline": "必備夏裝 輕鬆玩轉下個假日",
+    "EventLabel": "TRE|Women|SummerGetaway|ALL|NA"
+  },
+  {
+    "Placement": "wcu4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/june/cw25/CU2_CAMPAIGN_620x420-sportslounge.jpg",
+    "Exit Url": "/women/all-products/?cmpgn_one=sportlounge&getSKU=SU225AA81PRQMY--BY059AA99ZGYMY",
+    "Headline": "新休閒生活態度",
+    "Subline": "舒適寬鬆剪裁混搭時尚運動元素",
+    "EventLabel": "TRE|Women|SportLounge|Women|NA"
+  },
+  {
+    "Placement": "wfb1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/cw9/E8BYMISTA-FEB18-W-B1.jpg",
+    "Exit Url": "/women/e8-by-miista/?csa=e8bymistasseighteen",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "bra|women|e8bymistasseighteen|all|zap"
+  },
+  {
+    "Placement": "wfb2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/cw9/SIGMABEAUTY-MAR17-B1.jpg",
+    "Exit Url": "/women/sigma-beauty/?csa=sigmaawseventeen",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "bra|women|sigmaawseventeen|all|na"
+  },
+  {
+    "Placement": "wfb3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/cw9/JOHOMAMANBEBE-FEB18-W-B1.jpg",
+    "Exit Url": "/women/jojo-maman-bebe/?csa=jojomamanbebesseighteen",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "bra|women|jojomamanbebesseighteen|all|na"
+  },
+  {
+    "Placement": "wfb4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/cw9/REEBOK-MAR17-W-B1.jpg",
+    "Exit Url": "/women/reebok/?csa=reeboksseighteen",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|reeboksseighteen|ALL|NA"
+  },
+  {
+    "Placement": "wfb5",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/cw9/MDS-SEPT17-B1.jpg",
+    "Exit Url": "/women/mdscollections/?csa=mdscollectionawseventeen",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "bra|women|mdscollectionawseventeen|all|na"
+  },
+  {
+    "Placement": "wfb6",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/cw9/CLUSE-FEB18-W-B1.jpg",
+    "Exit Url": "/women/cluse/?csa=clusesseighteen",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "bra|women|clusesseighteen|all|na"
+  },
+  {
+    "Placement": "wc1",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/cw5/C1245_300x198_women_BOOTS.jpg",
+    "Exit Url": "/women/shoes/boots/?csa=boots",
+    "Headline": "NA",
+    "Subline": "選購靴子>",
+    "EventLabel": "CAT|Women|boots|ALL|NA"
+  },
+  {
+    "Placement": "wc2",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/cw6/C1245_300x198_women_HOODIES_AND_SWEATSHIRT.jpg",
+    "Exit Url": "/women/clothing/hoodies-sweatshirts/?csa=hoodies",
+    "Headline": "NA",
+    "Subline": "選購X連帽外套及長袖衫 >",
+    "EventLabel": "CAT|Women|hoodies|ALL|NA"
+  },
+  {
+    "Placement": "wc3",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/cw6/lingeriec3500.jpg",
+    "Exit Url": "/women/clothing/lingerie/all-products/?q=lace&csa=lingerie",
+    "Headline": "NA",
+    "Subline": "選購內在美>",
+    "EventLabel": "CAT|Women|lingerie|ALL|NA"
+  },
+  {
+    "Placement": "wc4",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/cw5/C1245_300x198_women_PLAYSUITS_AND_JUMPSUITS.jpg",
+    "Exit Url": "/women/clothing/playsuits-jumpsuits/?csa=playsuits",
+    "Headline": "NA",
+    "Subline": "選購連身褲 >",
+    "EventLabel": "CAT|Women|playsuits|ALL|NA"
+  },
+  {
+    "Placement": "wc5",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/cw5/C1245_300x198_women_BEAUTY.jpg",
+    "Exit Url": "/women/beauty/?csa=beauty",
+    "Headline": "NA",
+    "Subline": "選購美妝保養 >",
+    "EventLabel": "CAT|Women|beauty|ALL|NA"
+  },
+ {
+    "Placement": "wh1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-tw.zacdn.com/cms/cw9/HIGHSTREETBRANDS-CW9-FEB18-W-HERO-MOB-V2.jpg",
+    "Exit Url": "/women/all-products/?brand=aldo--call-it-spring--dorothy-perkins--fiorelli--guess--zalora--public-desire--river-island--topshop&csa=highstreetbrandsownnow",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "TRE|Women|highstreetbrandsownnow|ALL|NA"
+  },
+  {
+    "Placement": "wn1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-tw.zacdn.com/cms/cw9/WORKWEARNOW-CW9-FEB18-W-N2.jpg",
+    "Exit Url": "/women/office-wear/?csa=workwearownnow",
+    "Headline": "上班魔法",
+    "Subline": "有品味的職場穿搭，辦公室焦點就是妳",
+    "EventLabel": "TRE|Women|workwearownnow|ALL|NA"
+  },
+  {
+    "Placement": "wn2",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-tw.zacdn.com/cms/cw9/SNEAKERS-CW9-FEB18-W-N2.jpg",
+    "Exit Url": "/women/shoes/sneakers/?csa=sneakers",
+    "Headline": "大步探索新世界",
+    "Subline": "踩著時尚的腳步，迎接新旅途",
+    "EventLabel": "CAT|Women|sneakers|ALL|NA"
+  },
+  {
+    "Placement": "wn3",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-tw.zacdn.com/cms/youownnow/NCU3-onstaticpage-women-mobileweb.jpg",
+    "Exit Url": "/youownnow/?csa=ownnowstaticpage",
+    "Headline": "把握現在，擁抱自己",
+    "Subline": "將可能變絕對",
+    "EventLabel": "TRE|Women|ownnowstaticpage|ALL|NA"
+  },
+  {
+    "Placement": "wc1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-tw.zacdn.com/cms/cw5/C1245_300x198_women_BOOTS.jpg",
+    "Exit Url": "/women/shoes/boots/?csa=boots",
+    "Headline": "NA",
+    "Subline": "選購靴子>",
+    "EventLabel": "CAT|Women|boots|ALL|NA"
+  },
+  {
+    "Placement": "wc2",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-tw.zacdn.com/cms/cw6/lingeriec3.jpg",
+    "Exit Url": "/women/clothing/lingerie/all-products/?q=lace&csa=lingerie",
+    "Headline": "NA",
+    "Subline": "選購內在美>",
+    "EventLabel": "CAT|Women|lingerie|ALL|NA"
+  },
+  {
+    "Placement": "wb1",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-tw.zacdn.com/cms/brands/Dorothyperkins_women_436x248.jpg",
+    "Exit Url": "/women/dorothy-perkins/?csa=DorothyPerkinsJun",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|DorothyPerkinsJun|ALL|NA|dorothy-perkins"
+  },
+  {
+    "Placement": "wb2",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-tw.zacdn.com/cms/cw44/GUESS_Logo_436x248.jpg",
+    "Exit Url": "/guess/?csa=wb1wsguessss17",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|wb1wsguessss17|ALL|NA|guess"
+  },
+  {
+    "Placement": "wb3",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-tw.zacdn.com/cms/cw43/missselfridge_brands_logo_436x248.jpg",
+    "Exit Url": "/miss-selfridge/?csa=missselfridgeawseventeen",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "bra|women|missselfridgeawseventeen|all|na"
+  },
+  {
+    "Placement": "wb4",
+    "Gender": "women",
+    "Device": "mobile",
+    "Image": "https://static-tw.zacdn.com/cms/cw41/AddictsAnonymous_Logo_436x248.gif",
+    "Exit Url": "/addicts-anonymous/?csa=addictsanonymous1awseventeen",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Women|addictsanonymous1awseventeen|ALL|ZAP"
+  },
+ {
+    "Placement": "mh1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/cw9/SPORTSLIFESTYLE-CW9-FEB18-M-HERO-DESK.jpg",
+    "Exit Url": "/men/all-products/?brand=adidas--asics--billabong--new-balance--onitsuka-tiger--reebok--rip-curl&csa=sportslifestyle",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "TRE|Men|sportslifestyle|ALL|NA"
+  },
+  {
+    "Placement": "mn1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/cw9/SHORTSLEEVED-CW9-FEB18-M-N1.jpg",
+    "Exit Url": "/product-index/shirtsandpolos/?csa=shortsleeved",
+    "Headline": "不敗單品",
+    "Subline": "你不能缺少的襯衫",
+    "EventLabel": "TRE|Men|shortsleeved|ALL|NA"
+  },
+  {
+    "Placement": "mn2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/cw9/DENIM-CW9-FEB18-M-N2.jpg",
+    "Exit Url": "/product-index/owndenim/?csa=denimownnow",
+    "Headline": "永不退潮的丹寧時尚",
+    "Subline": "穿上丹寧服飾，展現個人時尚風格",
+    "EventLabel": "TRE|Men|denimownnow|ALL|NA"
+  },
+  {
+    "Placement": "mn3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/cw9/SNEAKERS-CW9-FEB18-M-N2.jpg",
+    "Exit Url": "/men/shoes/sneakers-plimsolls/?csa=sneakers",
+    "Headline": "潮流鞋款",
+    "Subline": "帶你邁出自信的每一步",
+    "EventLabel": "CAT|Men|sneakers|ALL|NA"
+  },
+  {
+    "Placement": "mn4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/cw9/BACKPACK-CW9-FEB18-M-N1.jpg",
+    "Exit Url": "/men/bags/backpacks/?csa=backpacksownwnow",
+    "Headline": "展開你的冒險之旅",
+    "Subline": "帶上後背包，立即開啓美好旅程",
+    "EventLabel": "CAT|Men|backpacksownwnow|ALL|NA"
+  },
+  {
+    "Placement": "mfb1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/cw9/ADIDAS-FEB18-M-B1.jpg",
+    "Exit Url": "/men/adidas/?csa=adidassseighteen",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "bra|men|adidassseighteen|all|na"
+  },
+  {
+    "Placement": "mfb2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/cw7/CALVINKLEIN-OCT17-M-B1.jpg",
+    "Exit Url": "/men/calvin-klein/?csa=calvinkleinawseventeen",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "bra|men|calvinkleinawseventeen|all|na"
+  },
+  {
+    "Placement": "mfb3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/cw9/BERCROMBIEFITCH-JAN18-U-B1.jpg",
+    "Exit Url": "/men/abercrombie-fitch/?csa=abercrombieandfitchsseighteen",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "bra|men|abercrombieandfitchsseighteen|all|na"
+  },
+  {
+    "Placement": "mfb4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/cw9/NEWBALANCE-FEB18-M-B1.jpg",
+    "Exit Url": "/men/new-balance/?csa=newbalancesseighteen",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "bra|men|newbalancesseighteen|all|na"
+  },
+  {
+    "Placement": "mfb5",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/cw9/HERSCHEL-FEB18-M-B1.jpg",
+    "Exit Url": "/men/herschel/?csa=herschelsseighteen",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "bra|men|herschelsseighteen|all|na"
+  },
+  {
+    "Placement": "mfb6",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/cw9/SUPERDRY-OCT17-M-B1.jpg",
+    "Exit Url": "/men/superdry/?csa=superdrysseighteen",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "bra|men|superdrysseighteen|all|na"
+  },
+  {
+    "Placement": "mc1",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/youownnow/C1-tshirts-men-cw8.jpg",
+    "Exit Url": "/men/clothing/t-shirts/?csa=tshirtsownnow",
+    "Headline": "NA",
+    "Subline": "選購T恤 >",
+    "EventLabel": "CAT|Men|tshirtsownnow|ALL|NA"
+  },
+  {
+    "Placement": "mc2",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/youownnow/C2-watches-men-cw8.jpg",
+    "Exit Url": "/men/watches/?csa=watchesownnow",
+    "Headline": "NA",
+    "Subline": "選購手錶 >",
+    "EventLabel": "CAT|Men|watchesownnow|ALL|NA"
+  },
+  {
+    "Placement": "mc3",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/youownnow/C3-trousers-men-cw8.jpg",
+    "Exit Url": "/men/clothing/pants/?csa=trousersownnow",
+    "Headline": "NA",
+    "Subline": "選購長褲 >",
+    "EventLabel": "CAT|Men|trousersownnow|ALL|NA"
+  },
+  {
+    "Placement": "mc4",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/youownnow/C4-loafers-men-cw8.jpg",
+    "Exit Url": "/men/shoes/?category_id=4197&csa=loafersownnow",
+    "Headline": "NA",
+    "Subline": "選購樂福鞋 >",
+    "EventLabel": "CAT|Men|loafersownnow|ALL|NA"
+  },
+  {
+    "Placement": "mc5",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/youownnow/C5-outerwear-men-cw8.jpg",
+    "Exit Url": "/men/clothing/?category_id=5775--5773--4389&csa=outerwearownnow",
+    "Headline": "NA",
+    "Subline": "選購外套 >",
+    "EventLabel": "CAT|Men|outerwearownnow|ALL|NA"
+  },
+   {
+    "Placement": "mh1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-tw.zacdn.com/cms/cw9/SPORTSLIFESTYLE-CW9-FEB18-M-HERO-MOB.jpg",
+    "Exit Url": "/men/all-products/?brand=adidas--asics--billabong--new-balance--onitsuka-tiger--reebok--rip-curl&csa=sportslifestyle",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "TRE|Men|sportslifestyle|ALL|NA"
+  },
+  {
+    "Placement": "mn1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-tw.zacdn.com/cms/cw9/SHORTSLEEVED-CW9-FEB18-M-N2.jpg",
+    "Exit Url": "/product-index/shirtsandpolos/?csa=shortsleeved",
+    "Headline": "不敗單品",
+    "Subline": "你不能缺少的襯衫",
+    "EventLabel": "TRE|Men|shortsleeved|ALL|NA"
+  },
+  {
+    "Placement": "mn2",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-tw.zacdn.com/cms/cw9/DENIM-CW9-FEB18-M-N2.jpg",
+    "Exit Url": "/product-index/owndenim/?csa=denimownnow",
+    "Headline": "永不退潮的丹寧時尚",
+    "Subline": "穿上丹寧服飾，展現個人時尚風格",
+    "EventLabel": "TRE|Men|denimownnow|ALL|NA"
+  },
+  {
+    "Placement": "mn3",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-tw.zacdn.com/cms/youownnow/NCU3-onstaticpage-men-mobileweb.jpg",
+    "Exit Url": "/youownnow/?csa=ownnowstaticpage",
+    "Headline": "把握現在，擁抱自己",
+    "Subline": "將可能變絕對",
+    "EventLabel": "TRE|Men|ownnowstaticpage|ALL|NA"
+  },
+  {
+    "Placement": "mc1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-tw.zacdn.com/cms/youownnow/C1-tshirts-men-cw8.jpg",
+    "Exit Url": "/men/clothing/t-shirts/?csa=tshirtsownnow",
+    "Headline": "NA",
+    "Subline": "選購T恤 >",
+    "EventLabel": "CAT|Men|tshirtsownnow|ALL|NA"
+  },
+  {
+    "Placement": "mc2",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-tw.zacdn.com/cms/youownnow/C3-trousers-men-mobile.jpg",
+    "Exit Url": "/men/clothing/pants/?csa=trousersownnow",
+    "Headline": "NA",
+    "Subline": "選購長褲 >",
+    "EventLabel": "CAT|Men|trousersownnow|ALL|NA"
+  },
+  {
+    "Placement": "mb1",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-tw.zacdn.com/cms/cw31/mobile_brands_topman.gif",
+    "Exit Url": "/men/topman/?csa=topmanJun",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|topmanJun|ALL|NA|topman"
+  },
+  {
+    "Placement": "mb2",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-tw.zacdn.com/cms/cw39/mobile_brand_logo_436x248.jpg",
+    "Exit Url": "/men/superdry/?csa=mcsuperdryss17",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|Men|mcsuperdryss17|ALL|NA|superdry"
+  },
+  {
+    "Placement": "mb3",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-tw.zacdn.com/cms/brands/mobilebrandsesprit_men_436x248.jpg",
+    "Exit Url": "/reebok/?from=men&csa=mspreebokss17",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "BRA|men|mspreebokss17|ALL|NA|reebok-shop"
+  },
+  {
+    "Placement": "mb4",
+    "Gender": "men",
+    "Device": "mobile",
+    "Image": "https://static-tw.zacdn.com/cms/cw43/mobile_brand_logo_436x248.jpg",
+    "Exit Url": "/men/converse/?csa=conversamss",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "SAL|Men|conversamss|ALL|maxp"
+  },
+  {
+    "Placement": "uh1",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/youownnow/hp-hero-own-now-cw8.jpg",
+    "Exit Url": "NA",
+    "Headline": "NA",
+    "Subline": "NA",
+    "EventLabel": "TRE|Women|homepageyouownnow|ALL|NA"
+  },
+  {
+    "Placement": "ub1",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/youownnow/b1-hp-own-now-cw8.jpg",
+    "Exit Url": "/women/denim/?csa=daretodenim",
+    "Headline": "不羈丹寧風",
+    "Subline": "時而率性時而優雅 丹寧風陪你享受生活中的每場冒險",
+    "EventLabel": "TRE|Women|daretodenim|ALL|NA"
+  },
+  {
+    "Placement": "ub2",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/youownnow/b2-hp-own-now-cw8.jpg",
+    "Exit Url": "/women/sports/?csa=sportslifestyle",
+    "Headline": "追求你的渴望",
+    "Subline": "愛上運動，任何時刻開始都不嫌晚",
+    "EventLabel": "TRE|Women|sportslifestyle|ALL|NA"
+  },
+  {
+    "Placement": "ub3",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "https://static-tw.zacdn.com/cms/youownnow/b3-hp-own-now-cw8.jpg",
+    "Exit Url": "/product-index/mens-workwear/?csa=workwear",
+    "Headline": "認真工作、瘋狂玩樂",
+    "Subline": "正式休閒隨時轉換，享受美好的每一刻",
+    "EventLabel": "CAT|Men|workwear|ALL|NA"
+  },
+  {
+    "Placement": "skinny-full-homepage",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "#ffb202",
+    "Exit Url": "/zalora-now/?csa=ZaloraNow",
+    "Headline": "ENJOY UNLIMITED NEXT DAY DELIVERY FOR 1 YEAR WITH ZALORA NOW! GET IT HERE >",
+    "Subline": "#000",
+    "EventLabel": "THE|NA|ZaloraNow|ALL|NA"
+  },
+  {
+    "Placement": "skinny-half-left-homepage",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "#99b2d6",
+    "Exit Url": "/magazine-subscription/?utm_source=zaloraskinny&utm_medium=zalora&utm_content=sphdeal&utm_campaign=subscriptionlaunchSept17&csa=sphmagazine",
+    "Headline": "UP TO 50% OFF SINGAPORE'S TOP FASHION MAGAZINES >",
+    "Subline": "#FFF",
+    "EventLabel": "THE|Women|sphmagazine|ALL|NA"
+  },
+  {
+    "Placement": "skinny-half-right-homepage",
+    "Gender": "unisex",
+    "Device": "desktop",
+    "Image": "#ffb202",
+    "Exit Url": "/zalora-now/?csa=ZaloraNow",
+    "Headline": "ENJOY UNLIMITED NEXT DAY DELIVERY WITH ZALORA NOW >",
+    "Subline": "#000",
+    "EventLabel": "THE|NA|ZaloraNow|ALL|NA"
+  },
+  {
+    "Placement": "skinny-full-women-global",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "#c19707",
+    "Exit Url": "/women/all-products/?mp=false&csa=cnysitewide",
+    "Headline": "輸入優惠碼YEAROFDOG享有全站82折優惠（需購滿TW$1488，部分品牌和賣家出售之商品不設折扣）",
+    "Subline": "#FFF",
+    "EventLabel": "RET|Women|cnysitewide|ALL|NA"
+  },
+  {
+    "Placement": "skinny-half-left-women-global",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "#6bbab7",
+    "Exit Url": "/women/shoes/?price=400-10000&getSKU=RU506SH90OCZMY--D9F83SH8153828GS--BF118SHD2F2CAFGS--F22E6SHBB89A4AGS--F2711SH40B6582GS--84897SHC5B773CGS",
+    "Headline": "LIMITED TIME OFFER: DRESSES, HEELS & BAGS UP TO 40% OFF >",
+    "Subline": "#FFF",
+    "EventLabel": "THE|Women|heelsbagsshoes|ALL|NA"
+  },
+  {
+    "Placement": "skinny-half-right-women-global",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "#F2E6F7",
+    "Exit Url": "/fashion-week-singapore/?csa=shopSFW18102017",
+    "Headline": "ZALORA x SINGAPORE FASHION WEEK >",
+    "Subline": "#000",
+    "EventLabel": "TRE|Women|shopSFW18102017|ALL|NA"
+  },
+  {
+    "Placement": "skinny-full-women-segment",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "#c19707",
+    "Exit Url": "/women/all-products/?mp=false&csa=cnysitewide",
+    "Headline": "輸入優惠碼YEAROFDOG享有全站82折優惠（需購滿TW$1488，部分品牌和賣家出售之商品不設折扣）",
+    "Subline": "#FFF",
+    "EventLabel": "RET|Women|cnysitewide|ALL|NA"
+  },
+  {
+    "Placement": "skinny-half-left-women-segment",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "#6bbab7",
+    "Exit Url": "/women/shoes/?price=400-10000&getSKU=RU506SH90OCZMY--D9F83SH8153828GS--BF118SHD2F2CAFGS--F22E6SHBB89A4AGS--F2711SH40B6582GS--84897SHC5B773CGS",
+    "Headline": "LIMITED TIME OFFER: DRESSES, HEELS & BAGS UP TO 40% OFF >",
+    "Subline": "#FFF",
+    "EventLabel": "THE|Women|heelsbagsshoes|ALL|NA"
+  },
+  {
+    "Placement": "skinny-half-right-women-segment",
+    "Gender": "women",
+    "Device": "desktop",
+    "Image": "#F2E6F7",
+    "Exit Url": "/fashion-week-singapore/?csa=shopSFW18102017",
+    "Headline": "ZALORA x SINGAPORE FASHION WEEK >",
+    "Subline": "#000",
+    "EventLabel": "TRE|Women|shopSFW18102017|ALL|NA"
+  },
+  {
+    "Placement": "skinny-full-men-global",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "#c19707",
+    "Exit Url": "/women/all-products/?getSKU=VA142SH0SWRTMY&mp=false&csa=cnysitewide",
+    "Headline": "輸入優惠碼YEAROFDOG享有全站82折優惠（需購滿TW$1488，部分品牌和賣家出售之商品不設折扣）",
+    "Subline": "#FFF",
+    "EventLabel": "RET|Men|cnysitewide|ALL|NA"
+  },
+  {
+    "Placement": "skinny-half-left-men-global",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "#99b2d6",
+    "Exit Url": "/men/all-products/?cmpgn_one=octreactivetwotwenty&csa=octtwotwenty",
+    "Headline": "LIMITED TIME OFFER: BUY 2 & GET 20% OFF (ON SELECTED ITEMS) >",
+    "Subline": "#FFF",
+    "EventLabel": "SAL|Men|octtwotwenty|ALL|NA"
+  },
+  {
+    "Placement": "skinny-half-right-men-global",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "#ffb202",
+    "Exit Url": "/zalora-now/?csa=ZaloraNow",
+    "Headline": "ENJOY UNLIMITED NEXT DAY DELIVERY WITH ZALORA NOW >",
+    "Subline": "#000",
+    "EventLabel": "THE|NA|ZaloraNow|ALL|NA"
+  },
+  {
+    "Placement": "skinny-full-men-segment",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "#c19707",
+    "Exit Url": "/women/all-products/?getSKU=VA142SH0SWRTMY&mp=false&csa=cnysitewide",
+    "Headline": "輸入優惠碼YEAROFDOG享有全站82折優惠（需購滿TW$1488，部分品牌和賣家出售之商品不設折扣）",
+    "Subline": "#FFF",
+    "EventLabel": "RET|Men|cnysitewide|ALL|NA"
+  },
+  {
+    "Placement": "skinny-half-left-men-segment",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "#99b2d6",
+    "Exit Url": "/men/all-products/?cmpgn_one=octreactivetwotwenty&csa=octtwotwenty",
+    "Headline": "LIMITED TIME OFFER: BUY 2 & GET 20% OFF (ON SELECTED ITEMS) >",
+    "Subline": "#FFF",
+    "EventLabel": "SAL|Men|octtwotwenty|ALL|NA"
+  },
+  {
+    "Placement": "skinny-half-right-men-segment",
+    "Gender": "men",
+    "Device": "desktop",
+    "Image": "#ffb202",
+    "Exit Url": "/zalora-now/?csa=ZaloraNow",
+    "Headline": "ENJOY UNLIMITED NEXT DAY DELIVERY WITH ZALORA NOW >",
+    "Subline": "#000",
+    "EventLabel": "THE|NA|ZaloraNow|ALL|NA"
+  }
+]
